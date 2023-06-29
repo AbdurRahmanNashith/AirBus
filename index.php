@@ -863,7 +863,7 @@ div.card {
 				<img src="assets/images/airtic.png" 
 					height="40px" width="40px" alt="">				
 			Online Flight Booking</h5></em>
-	<div class="text-light text-center">&copy; <?php echo date('Y')?> - Developed By Sujoy Dcunha, Christina Pereira, Mark Coutinho<br><br></div>
+	<div class="text-light text-center">&copy; <?php echo date('Y')?> - Developed By Abdur Rahman Nashith C, B.TECH/IT<br><br></div>
 
 	
 	</footer>	
